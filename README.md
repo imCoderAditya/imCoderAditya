@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm ImCoderAditya</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
-<img alt="coding" src = "https://img.freepik.com/free-vector/male-programmer-working-computer-office-wall-with-hanging-reminder-stickers-developer-creating-new-software-interface-coding-programming-system-administrator-designer-character_575670-1159.jpg?w=900&t=st=1675829614~exp=1675830214~hmac=cd88cddb90767060bef1e5de8c081d5a7e09d79fb480c3fe41459446d4fa87f4">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imcoderaditya&label=Profile%20views&color=0e75b6&style=flat" alt="imcoderaditya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imcoderaditya" alt="imcoderaditya" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/imcoderaditya" target="blank"><img src="https://img.shields.io/twitter/follow/imcoderaditya?logo=twitter&style=for-the-badge" alt="imcoderaditya" /></a> </p>
+<img alt="coding" align = "right" width = 400 src = "https://img.freepik.com/free-vector/male-programmer-working-computer-office-wall-with-hanging-reminder-stickers-developer-creating-new-software-interface-coding-programming-system-administrator-designer-character_575670-1159.jpg?w=900&t=st=1675829614~exp=1675830214~hmac=cd88cddb90767060bef1e5de8c081d5a7e09d79fb480c3fe41459446d4fa87f4">
 
 - 🔭 I’m currently working on **flipkart**
 
