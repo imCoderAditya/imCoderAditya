@@ -22,11 +22,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/imcoderaditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="imcoderaditya" height="30" width="40" /></a>
-<a href="https://twitter.com/imcoderaditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imcoderaditya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aditya kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya kumar" height="30" width="40" /></a>
-<a href="https://fb.com/aditya vashishtha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aditya vashishtha" height="30" width="40" /></a>
+<a href="https://twitter.com/imCoderAditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imcoderaditya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditya-kumar-914b23231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya kumar" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100009142004617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aditya vashishtha" height="30" width="40" /></a>
 <a href="https://instagram.com/official_im_aditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="official_im_aditya" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/imcoderaditya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="imcoderaditya" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC08ooRenHPRatQBJspxl63Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="imcoderaditya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
