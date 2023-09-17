@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **flipkart**
 
-- 🌱 I’m currently learning **Flutter,Python**
+- 🌱 I’m currently learning **Flutter,Python,Java Script,dart,HTML,CSS,React,React Native, Node.js**
 
 - 💬 Ask me about **Software Developer**
 
